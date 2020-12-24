@@ -13,7 +13,7 @@
   "dependencies": {
     "async-polling": "^0.2.1",
     "convert-units": "^2.3.4",
-    "date-and-time": "^0.11.1",
+    "date-and-time": "^0.14.2",
     "degrees-to-direction": "^1.1.1",
     "dotenv": "^8.2.0",
     "influx": "^5.5.1",
